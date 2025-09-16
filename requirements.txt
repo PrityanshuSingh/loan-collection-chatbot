@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+imbalanced-learn
+streamlit
+groq
+langchain
+langchain-community
+pypdf
+faiss-cpu
+huggingface_hub
+sentence-transformers==2.7.0
+datasets==2.16.1
+plotly
