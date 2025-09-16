@@ -117,6 +117,34 @@ loan-collection-chatbot/
 └── README.md                # This file
 ```
 
+## Dummy Config.py
+
+```bash
+# config.py
+
+# --- API Keys ---
+# IMPORTANT: It is recommended to use Streamlit secrets for deployment.
+# For local development, you can set your API key here.
+GROQ_API_KEY = "YOUR_API_KEY"
+
+# --- Model Configuration ---
+GROQ_MODEL_NAME = "openai/gpt-oss-120b"
+
+# --- File Paths ---
+DATA_FILE_PATH = 'data/Analytics_loan_collection_dataset.csv'
+RAG_PDF_PATHS = [
+    'assets/rbi_guidelines.pdf',
+    'assets/best-practices-in-collections-strategies.pdf'
+]
+
+# --- Asset Paths (for saving/loading trained models) ---
+PREDICTIVE_MODEL_ASSETS_PATH = 'models/predictive_assets.pkl'
+PERSONA_MODEL_ASSETS_PATH = 'models/persona_assets.pkl'
+
+# --- Chatbot Settings ---
+MAX_NEGATIVE_STRIKES = 3
+```
+
 ---
 
 ## 📝 Contributing
