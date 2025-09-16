@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+models/*.pkl
+
+# Vector index
+vectorstore_index/*.faiss
+vectorstore_index/*.pkl
+vectorstore_index/*.txt
+
+# Environment
+.env
+venv/
+.venv/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
