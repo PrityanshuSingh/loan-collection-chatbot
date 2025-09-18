@@ -145,6 +145,9 @@ PERSONA_MODEL_ASSETS_PATH = 'models/persona_assets.pkl'
 MAX_NEGATIVE_STRIKES = 3
 ```
 
+## Chatbot Screenshot
+![WhatsApp Image 2025-09-16 at 07 05 24_cb57dae0](https://github.com/user-attachments/assets/945e81c2-0f36-48b7-bde3-cfbd9faccf36)
+
 ---
 
 ## 📝 Contributing
