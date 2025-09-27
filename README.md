@@ -153,6 +153,6 @@ MAX_NEGATIVE_STRIKES = 3
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-For more detailed insights and code, visit the Google Collab - [Link](https://colab.research.google.com/drive/1UhPsrN1tm5dHsAq736SRY36vFiVYefuB?usp=sharing)
+For more detailed insights and code, visit the Google Collab - [Link](https://colab.research.google.com/drive/1E704VLA5fL6kb0w8hBl9N_OA_z-PHyiM?usp=sharing)
 
 ---
