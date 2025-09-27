@@ -2,9 +2,8 @@
 
 ## Overview
 
-The **Loan Collection Chatbot** is an intelligent, containerized application designed to handle loan collection processes with empathy and compliance. It combines predictive modeling, persona-based strategies, and a powerful conversational AI to create personalized and effective customer interactions.
-
-Built with **Streamlit** and **Python**, it is designed to be run easily and reliably using **Docker Compose**.
+The Loan Collection Chatbot is an intelligent, empathetic, and compliant solution designed to streamline loan recovery. It combines predictive modeling, persona-based strategies, and advanced conversational AI to deliver personalized, effective interactions. By leveraging a customer’s past financial history, behavioral data, and real-time intent signals, it adapts to each individual’s needs.
+Built with **Streamlit** and **Python**, it is designed to be run easily and reliably.
 
 ---
 
