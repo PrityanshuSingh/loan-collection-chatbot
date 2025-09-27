@@ -22,7 +22,7 @@ Built with **Streamlit** and **Python**, it is designed to be run easily and rel
 
 ---
 
-## Getting Started with Docker (Recommended Method)
+## Getting Started
 
 Running this project with Docker is the simplest way to get started. It handles all dependencies and configurations for you.
 
