@@ -1,6 +1,6 @@
-# 🤖 Loan Collection Chatbot
+# Loan Collection Chatbot
 
-## 📖 Overview
+## Overview
 
 The **Loan Collection Chatbot** is an intelligent, containerized application designed to handle loan collection processes with empathy and compliance. It combines predictive modeling, persona-based strategies, and a powerful conversational AI to create personalized and effective customer interactions.
 
@@ -8,7 +8,7 @@ Built with **Streamlit** and **Python**, it is designed to be run easily and rel
 
 ---
 
-## ✨ Features
+## Features
 
 -   **Predictive Default Model**: An XGBoost model that accurately predicts loan default probabilities.
 -   **Persona Identification**: Uses KMeans clustering to segment customers into actionable personas (e.g., "Willing but Struggling," "High-Risk Avoider").
@@ -23,7 +23,7 @@ Built with **Streamlit** and **Python**, it is designed to be run easily and rel
 
 ---
 
-## 🐳 Getting Started with Docker (Recommended Method)
+## Getting Started with Docker (Recommended Method)
 
 Running this project with Docker is the simplest way to get started. It handles all dependencies and configurations for you.
 
@@ -73,7 +73,7 @@ docker-compose up --build
 
 Once the container is running, open your web browser and navigate to:
 
-👉 **[http://localhost:8501](http://localhost:8501)**
+**[http://localhost:8501](http://localhost:8501)**
 
 ### 5. Stopping the Application
 
@@ -85,7 +85,7 @@ docker-compose down
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 loan-collection-chatbot/
@@ -150,7 +150,7 @@ MAX_NEGATIVE_STRIKES = 3
 
 ---
 
-## 📝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
